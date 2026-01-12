@@ -1,0 +1,51 @@
+body {
+    font-family: Crimson text;
+    background-color: #F2EEEC;
+    color: #A38F85;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: Broadway;
+    color: #A38F85;
+}
+
+.container {
+    text-align: center;
+    padding: 30px;
+    background-color: #E6D7C8;
+    color: #A38F85;
+    border-radius: 20px;
+}
+
+form {
+    text-align: center;
+}
+
+.btn {
+    background-color: #D5B2A7;
+}
+
+.footer {
+    background-color: #CEC6C2;
+    color: #A38F85;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-weight: bold;
+    left: 0;
+}
+
+.footer a {
+    color: #A38F85;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    color: #D5B2A7;
+}
